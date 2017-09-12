@@ -1,0 +1,25 @@
+# Site settings
+title: Pear Tree Lane
+email: hi@peartreelane.co
+description: > # Writer Theme is a responsive template
+ A Blog by Emma Boyd focused on Fashion, Interiors & Lifestyle from Northern Ireland.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.peartreelane.co" # the base hostname & protocol for your site
+enable_retina: false
+future: true
+permalink: :title
+nav_list:
+  Home : ['Home', '/', 'fa-caret-right']
+  About : ['About', '/about', 'fa-caret-right']
+  Contact : ['Contact', '/contact', 'fa-caret-right']
+  Instagram : ['Instagram', 'https://www.instagram.com/pear_tree_lane/', 'fa-instagram']
+single_footer: '<p>Pear Tree Lane &copy; 2017 <a href="/">latest posts</a></p>'
+footer_links:
+    Home : ['Home', '/' ]
+    About: ['About', '/about']
+    Contact : ['Contact', '/contact']
+    Instagram: ['Instagram', 'https://www.instagram.com/pear_tree_lane/']
+blog_desc: 'A Blog by Emma Boyd focused on Fashion, Interiors & Lifestyle from Northern Ireland.'
+
+# Build settings
+# markdown: kramdown

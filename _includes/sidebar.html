@@ -1,0 +1,27 @@
+<section class="sidebar col-md-5 col-sm-12" style='background-image: url({{"/img/" | append: page.feature_image | prepend: site.baseurl }}.jpg);'>
+
+    <span class="menu-trigger animated fadeInDown">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </span>
+
+    <div class="site-info">
+        <div class="primary-info">
+            <h1>{{ page.title }}</h1>
+            <p>{{ page.desc }}</p>
+        </div>
+   
+        <div id="profile">
+            <img src='{{ "/img/" | append: category.first | prepend: site.baseurl }}emma-home.png' alt="Emma Boyd" class="emma">
+            <p>{{site.blog_desc}}</p>
+        </div>
+ 
+        <div class="secondary-info">
+                    <a class="icon" href="https://www.instagram.com/pear_tree_lane/" data-platform="instagram" data-message="{{ page.social-message }}" data-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-instagram"></i></a>
+                    <a class="social-side" data-platform="mail"  href="mailto:{{ site.email }}?body={{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-envelope"></i></a>
+              
+             
+        </div>
+    </div>
+</section><!-- end sidebar -->
