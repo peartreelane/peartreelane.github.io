@@ -8,7 +8,7 @@ layout: post
 author_name : Emma
 author_url : /author/emma
 author_avatar: emma
-show_avatar : true
+show_avatar : false
 show_related_posts: false
 square_related: recommend-blog
 ---
