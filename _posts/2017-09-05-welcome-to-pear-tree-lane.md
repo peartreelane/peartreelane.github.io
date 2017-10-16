@@ -20,3 +20,6 @@ Hi everyone - welcome to my first blog post.  I hope we have a lot of fun here. 
 My husband is so awesome.  He made this for me.  He is GREAT.
 
 ![emma](../img/emma.jpg)
+
+![we test](../img/post-assets/fire.jpg)
+
