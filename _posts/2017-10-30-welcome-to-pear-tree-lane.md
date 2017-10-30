@@ -13,6 +13,8 @@ show_related_posts: false
 square_related: recommend-blog
 ---
 
+
+
 Welcome to Pear Tree Lane, and my foray into the world of blogging!  I hope to share some of my day to day life with you, and all the things which I love.
 
 ![emma](../img/post-assets/me.jpg)
