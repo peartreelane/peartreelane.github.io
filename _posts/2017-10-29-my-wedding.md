@@ -15,6 +15,8 @@ square_related: recommend-laptop
 Getting married was a day I dreamt about since a little girl. The day finally came when Kyle proposed to me with a showstopper marquise sapphire and diamond ring in July, with Mussenden Temple as a backdrop. Kyle had thought of every detail, life was prefect in my world. A feeling I will never forget..
 
 ![My Wedding](../img/post-assets/KE-230.jpg)
+
+
 ![My Wedding](../img/post-assets/K&E-700.jpg)
 Now the planning, stressing, saving and trying to make decisions had commenced.
 
