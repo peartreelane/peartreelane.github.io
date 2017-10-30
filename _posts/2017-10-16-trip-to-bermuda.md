@@ -18,7 +18,7 @@ square_related: recommend-blog
 Where has the summer gone?
 This may be a slightly depressing blog post for reader and writer alike. As its about our summer holiday to Bermuda and New York. Looking back we had a fantastic holiday staying at two very different destinations. 
 
-![bermuda sea](../img/post-assets/kyle-and-I-bermuda-pg.jpg)
+![bermuda sea](../img/post-assets/kyle-bermuda.jpg)
 
 ## Bermuda
 Our first stop was Bermauda staying with friends for 9 nights. Kyle had been on many occasions before and talked about it so much I felt I had been. After flying 10hrs we arrived feeling fresh and ready to attack the day as we flew first class, with British Airways. What an amazing flying and dining experience. 
