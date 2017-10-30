@@ -27,7 +27,7 @@ Getting married was a day I dreamt about since a little girl. The day finally ca
 
 Kyle and I got married on the 12th May 2015 at Ballydugan Mill in Downpatrick Co. Down Northern Ireland. From the outset I knew exactly how I wanted my wedding to look. For further inspiration and someone to keep me on the right track, I met up with my very special friend Louise at The Vintage Room. Who owns a styling company and highly skilled at co-ordinating unique weddings. [Check out her blog](http://www.thevintageroom.info/) 
 
-![My Wedding](../img/post-assets/K&E-604.jpgg)
+![My Wedding](../img/post-assets/K&E-604.jpg)
 
 ![My Wedding](../img/post-assets/K&E-148.jpg)
 
