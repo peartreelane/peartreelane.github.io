@@ -13,6 +13,8 @@ show_related_posts: false
 square_related: recommend-blog
 ---
 
+
+
 Where has the summer gone?
 This may be a slightly depressing blog post for reader and writer alike. As its about our summer holiday to Bermuda and New York. Looking back we had a fantastic holiday staying at two very different destinations. 
 
