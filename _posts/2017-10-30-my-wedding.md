@@ -1,38 +1,26 @@
 ---
 layout: post
-date: 2017-02-11 08:50:28
-categories: home pretties
+date: 2017-10-30 08:50:28
+categories: wedding
 author_name : Emma
 author_url : /author/emma
 author_avatar: emma
-show_avatar : true
-read_time : 34
+show_avatar : false
+read_time : 4
 feature_image: feature-laptop
-show_related_posts: true
+show_related_posts: false
 square_related: recommend-laptop
 ---
 
-The Grunt ecosystem is huge and it's growing every day. With literally hundreds of plugins to choose from, you can use Grunt to automate just about anything with a minimum of effort. If someone hasn't already built what you need, authoring and publishing your own Grunt plugin to npm is a breeze. See how to [get started](http://gruntjs.com/).
+Getting married was a day I dreamt about since a little girl. The day finally came when Kyle proposed to me with a showstopper marquise sapphire and diamond ring in July, with Mussenden Temple as a backdrop. Kyle had thought of every detail, life was prefect in my world. A feeling I will never forget..
 
-In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it through a Gruntfile, a task runner can do most of that mundane work for you—and your team—with basically zero effort.
+![this is awesome](../img/recommend-blog.jpg)
+Now the planning, stressing, saving and trying to make decisions had commenced.
 
-Jekyll also offers powerful support for code snippets:
+![this is awesome](../img/recommend-blog.jpg)
+Kyle and I got married on the 12th May 2015 at Ballydugan Mill in Downpatrick Co. Down Northern Ireland. From the outset I knew exactly how I wanted my wedding to look. For further inspiration and someone to keep me on the right track, I met up with my very special friend Louise at The Vintage Room. Who owns a styling company and highly skilled at co-ordinating unique weddings. [Check out her blog](http://www.thevintageroom.info/) I felt I would never wear a traditional ivory wedding dress, as I wanted that ‘something different’. My mother in law recommended a very talented designer (Elizabeth Francis) . My first consolation with Elizabth was such a wonderful experience, her and I just clicked she was able to get into my head, and have the vision to design what I wanted.### My dress detailWedding gown in satin with a fitted top layer of French lace in an antique rose shade highlighted with sequins and pearls.Bridesmaids in ivory crepe silk with separate French lace tops in the same design as the bride. Waists highlighted with deep satin ribbon bow belts.
 
-{% highlight javascript %}
-{
-  "name": "my-project-name",
-  "version": "0.1.0",
-  "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-contrib-jshint": "~0.10.0",
-    "grunt-contrib-nodeunit": "~0.4.1",
-    "grunt-contrib-uglify": "~0.5.0"
-  }
-}
-{% endhighlight %}
-
-The easiest way to add Grunt and gruntplugins to an existing `package.json` is with the command `npm install <module> --save-dev`. Not only will this install `<module>` locally, but it will automatically be added to the devDependencies section, using a tilde version range.
-
-For example, this will install the latest version of Grunt in your project folder, adding it to your devDependencies:
-
-Grunt
+![this is awesome](../img/recommend-blog.jpg)
+![this is awesome](../img/recommend-blog.jpg)
+![this is awesome](../img/recommend-blog.jpg)
+
