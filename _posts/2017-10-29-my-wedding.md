@@ -7,7 +7,7 @@ author_url : /author/emma
 author_avatar: emma
 show_avatar : false
 read_time : 4
-feature_image: feature-laptop
+feature_image: wedding-feature
 show_related_posts: false
 square_related: recommend-laptop
 ---
