@@ -12,9 +12,9 @@ show_avatar : false
 show_related_posts: false
 square_related: recommend-blog
 ---
+![emma](../img/me.jpg)
 
-
-
+me.jpg
 
 Welcome to Pear Tree Lane, and my foray into the world of blogging!  I hope to share some of my day to day life with you, and all the things which I love.
 My name is Emma and I'm married to the lovely Kyle and he accomplished something quite incredible getting a Co. Antrim girl like me to move to Co. Down. From a young age, I have been passionate about ‘things looking pretty’ along with antique furniture. Needless to say I had quite a large ‘bottom drawer’ before I even got engaged. Kyle and I were definitely  born in the wrong era as we both love older pieces of furniture with lots of character.
