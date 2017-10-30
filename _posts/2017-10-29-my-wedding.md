@@ -35,6 +35,9 @@ Getting married was a day I dreamt about since a little girl. The day finally ca
 I felt I would never wear a traditional ivory wedding dress, as I wanted that ‘something different’. My mother in law recommended a very talented designer (Elizabeth Francis) . My first consolation with Elizabeth was such a wonderful experience, her and I just clicked she was able to get into my head, and have the vision to design what I wanted.
 My Wedding dress was dutchess satin with a fitted top layer of French lace in an antique rose shade highlighted with sequins and pearls.Bridesmaids in ivory crepe silk with separate French lace tops in the same design as the bride. Waists highlighted with deep satin ribbon bow belts.
 
+
+![My Wedding](../img/post-assets/K&E-114.jpg)
+
 ![My Wedding](../img/post-assets/K&E-411.jpg)
 
 
