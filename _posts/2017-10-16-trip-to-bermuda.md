@@ -2,7 +2,7 @@
 title: Trip to Bermuda
 date: 2017-10-16 18:00
 categories: travel
-feature_image: feature-sea
+feature_image: bermuda-feature
 read_time : 6
 layout: post
 author_name : Emma
@@ -24,7 +24,7 @@ Where has the summer gone?
 Initially I didn't think there would be much to do in Bermuda but I was proved wrong. Firstly the America’s Cup was on while we where there, what an experience to see ……… Racing.  So many beautiful bays to relax on a lounger basking the high temperatures eating chilled fruit and salty crisps. 
  ---
  
- ### Crystal Caves
+ #Crystal Caves
  We visited the Crystal Caves of Bermuda our host Graham had never been before was 
 
 ![this was the crystal caves - amazing!](../img/post-assets/crystal.jpg)
@@ -32,7 +32,6 @@ Where has the summer gone?
 a tourist attraction since 1907 discovered by two teenagers in 1905. Deep, Clear underground pools of azure blue water. Incredible formations of every size and shape imaginable.  
 
 ![we test](../img/post-assets/bermuda.jpg)
-
 Deep, clear underground pools of azure blue water. Incredible formations of Another day of the trip Graham kindly rented a boat and we filled the boat full of goodies and went out to sea. Swimming with fish and meeting up with friends. 
 So many wonderful things to do and experience in Bermuada I couldn't write about them all. If you ever have the opportunity to visit this beautiful island ( I will be very jealous)  you will then understand what I mean.
 After spending 10 days in Bermuda (one extra night, as our flight was cancelled ) we then flew onto New York, I will get round to writing about it soon, stay tuned. 
