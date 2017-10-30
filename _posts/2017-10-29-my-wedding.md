@@ -40,10 +40,7 @@ Getting married was a day I dreamt about since a little girl. The day finally ca
 
 ![My Wedding](../img/post-assets/K&E-411.jpg)
 
-
 ![My Wedding](../img/post-assets/K&E-518.jpg)
-
-![My Wedding](../img/post-assets/K&E-510.jpg)
 
 ![My Wedding](../img/post-assets/KE-739.jpg)
 
