@@ -28,8 +28,12 @@ Where has the summer gone?
 
 ![bermuda sea](../img/post-assets/boat-trip.jpg)
 
-From the outset Bermuda was truly **breathe taking**, high temperatures, and the beaches with its pink sand and exceptionally clear water. Topped off with being hosted by wonderful friends. 
+From the outset Bermuda was truly **breathe taking**, high temperatures, and the beaches with its pink sand and exceptionally clear water. Being hosted by wonderful friends. 
 
+![bermuda sea](../img/post-assets/beach-day.jpg)
+
+
+![bermuda sea](../img/post-assets/Lighthouse-pic.jpg)
 
 Initially I didn't think there would be much to do in Bermuda but I was proved wrong. Firstly the America’s Cup was on while we where there, what an experience to see ……… Racing.  So many beautiful bays to relax on a lounger basking the high temperatures eating chilled fruit and salty crisps. 
  ---
