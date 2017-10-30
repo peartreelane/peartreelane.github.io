@@ -21,10 +21,9 @@ Welcome to Pear Tree Lane, and my foray into the world of blogging!  I hope to s
 
 Emma x
 
+![emma](../img/post-assets/emma-bluebells.jpg)
 
 
 
-![emma](../img/emma.jpg)
 
-![we test](../img/post-assets/fire.jpg)
 
