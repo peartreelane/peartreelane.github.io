@@ -12,12 +12,11 @@ show_avatar : false
 show_related_posts: false
 square_related: recommend-blog
 ---
-
-Hi everyone - welcome to my first blog post.  I hope we have a lot of fun here.  Join me.  
+Welcome to Pear Tree Lane, and my foray into the world of blogging!  I hope to share some of my day to day life with you here and all the things which I love.My name is Emma and I'm married to the lovely Kyle and he accomplished something quite incredible getting a Co. Antrim girl like me to move to Co. Down!From a young age, I have been passionate about ‘things looking pretty’ along with antique furniture.Needless to say I had quite a large ‘bottom drawer’ before I even got engaged. My husband and I were definitely  born in the wrong era as we both love older pieces with lots of character.I am excited to bring you all along with me on my blogging adventures out and about and showing you inside our first home and keeping you up to date with my wardrobe.All Thanks to Louise @thevintageroom for encouraging me to step out into the world of blogging along with my wonderful husband for building my bespoke blog. ‘I just find myself happy with the simple things. Appreciating the blessings God gives me’
 
 ![this is awesome](../img/recommend-blog.jpg)
 
-My husband is so awesome.  He made this for me.  He is GREAT.
+
 
 ![emma](../img/emma.jpg)
 
