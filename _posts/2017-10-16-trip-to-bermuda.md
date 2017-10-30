@@ -23,7 +23,7 @@ Where has the summer gone?
 ## Bermuda
 Our first stop was Bermauda staying with friends for 9 nights. Kyle had been on many occasions before and talked about it so much I felt I had been. After flying 10hrs we arrived feeling fresh and ready to attack the day as we flew first class, with British Airways. What an amazing flying and dining experience. 
 
-![bermuda sea](../img/post-assets/kyle-and-I-bermuda-pg.jpg)
+
 From the outset Bermuda was truly **breathe taking**, high temperatures, and the beaches with its pink sand and exceptionally clear water. Topped off with being hosted by wonderful friends. 
 Initially I didn't think there would be much to do in Bermuda but I was proved wrong. Firstly the America’s Cup was on while we where there, what an experience to see ……… Racing.  So many beautiful bays to relax on a lounger basking the high temperatures eating chilled fruit and salty crisps. 
  ---
