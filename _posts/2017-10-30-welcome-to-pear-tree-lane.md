@@ -2,7 +2,7 @@
 title: Welcome To Pear Tree Lane
 date: 2017-10-30 17:45:32
 categories: home travel weddings
-feature_image: About me- flowers.JPG
+feature_image: About me- Flowers.JPG
 read_time : 4
 layout: post
 author_name : Emma
