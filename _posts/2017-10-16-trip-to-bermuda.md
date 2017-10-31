@@ -55,7 +55,8 @@ a tourist attraction since 1907 discovered by two teenagers in 1905. Deep, Clear
 
 ![crystal caves](../img/post-assets/emma-lighthouse.jpg)
 
-![crystal caves](../img/post-assets/dinner-lighthouse.jpg)After spending 10 days in Bermuda (one extra night, as our flight was cancelled ) we then flew onto New York, I will get round to writing about it soon, stay tuned. 
+![crystal caves](../img/post-assets/dinner-lighthouse.jpg)
+After spending 10 days in Bermuda (one extra night, as our flight was cancelled ) we then flew onto New York, I will get round to writing about it soon, stay tuned. 
 
 
 
