@@ -44,7 +44,7 @@ From the outset Bermuda was truly **breathe taking**, high temperatures, and the
 
 ![crystal caves](../img/post-assets/caves.jpg)
 
-![crystal caves](../img/post-assets/blue-caves..jpg)
+![crystal caves](../img/post-assets/blue-caves.jpg)
 
 
 a tourist attraction since 1907 discovered by two teenagers in 1905. Deep, Clear underground pools of azure blue water. Incredible formations of every size and shape imaginable.  
