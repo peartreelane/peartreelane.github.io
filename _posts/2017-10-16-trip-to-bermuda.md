@@ -32,7 +32,6 @@ From the outset Bermuda was truly **breathe taking**, high temperatures, and the
 ![bermuda sea](../img/post-assets/beach-day.jpg)
 
 
-![bermuda sea](../img/post-assets/lighthouse-pic.jpg)
 
 Initially I didn't think there would be much to do in Bermuda but I was proved wrong. Firstly the America’s Cup was on while we where there, what an experience to watch New Zealand and America compete in the final.  
 
