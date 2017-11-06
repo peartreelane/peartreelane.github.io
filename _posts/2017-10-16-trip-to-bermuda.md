@@ -39,18 +39,14 @@ From the outset Bermuda was truly **breathe taking**, high temperatures, and the
  ![bermuda sea](../img/post-assets/boat.jpg)
  ---
  
- #Crystal Caves
- We visited the Crystal Caves of Bermuda our host Graham had never been before was 
+ We visited the Crystal Caves of Bermuda, a tourist attraction since 1907 discovered by two teenagers in 1905. Deep, Clear underground pools of azure blue water. Incredible formations of every size and shape imaginable. Deep, clear underground pools of azure blue water. Incredible formations of water. 
 
 ![crystal caves](../img/post-assets/caves.jpg)
 
 ![crystal caves](../img/post-assets/blue-caves.jpg)
 
 
-a tourist attraction since 1907 discovered by two teenagers in 1905. Deep, Clear underground pools of azure blue water. Incredible formations of every size and shape imaginable.  
-
-
-Deep, clear underground pools of azure blue water. Incredible formations of Another day of the trip Graham kindly rented a boat and we filled the boat full of goodies and went out to sea. Swimming with fish and meeting up with friends. 
+  Another day of the trip Graham kindly rented a boat and we filled the boat full of goodies and went out to sea. Swimming with fish and meeting up with friends. 
 So many wonderful things to do and experience in Bermuada I couldn't write about them all. If you ever have the opportunity to visit this beautiful island ( I will be very jealous)  you will then understand what I mean.
 
 ![crystal caves](../img/post-assets/emma-lighthouse.jpg)
