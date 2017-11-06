@@ -1,6 +1,6 @@
 ---
 title: Trip to Bermuda
-date: 2017-10-16 18:00
+date: 2017-11-06 18:00
 categories: travel 
 feature_image: bermuda-feature
 read_time : 6
