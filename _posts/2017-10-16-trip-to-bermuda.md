@@ -20,7 +20,6 @@ Where has the summer gone?
 
 ![bermuda sea](../img/post-assets/kyle-bermuda.jpg)
 
-## Bermuda
 Our first stop was Bermauda staying with friends for 9 nights. Kyle had been on many occasions before, and talked about it often I felt I had been. After flying 10hrs we arrived feeling fresh and ready to attack the day as we flew first class, with British Airways. What an amazing flying and dining experience. 
 
 ![bermuda sea](../img/post-assets/beach.jpg)
@@ -46,7 +45,7 @@ From the outset Bermuda was truly **breathe taking**, high temperatures, and the
 ![crystal caves](../img/post-assets/blue-caves.jpg)
 
 
-Another day of the trip Graham kindly rented a boat and we filled the boat full of goodies and went out to sea. Swimming with fish and meeting up with friends. 
+Another day of the trip we rented a boat filled it with goodies and went out to sea. Swimming with fish and meeting up with friends. 
 So many wonderful things to do and experience in Bermuada I couldn't write about them all. If you ever have the opportunity to visit this beautiful island ( I will be very jealous) you will then understand what I mean, about it breathtaking views and bays.
 
 ![crystal caves](../img/post-assets/emma-lighthouse.jpg)
