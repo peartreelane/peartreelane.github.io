@@ -46,8 +46,7 @@ From the outset Bermuda was truly **breathe taking**, high temperatures, and the
 
 
 Another day of the trip we rented a boat filled it with goodies and went out to sea. Swimming with fish and meeting up with friends. 
-So many wonderful things to do and experience in Bermuada I couldn't write about them all. If you ever have the opportunity to visit this beautiful island 
- ( I will be very jealous) you will then understand what I mean, about it breathtaking views and bays.
+So many wonderful things to do and experience in Bermuada I couldn't write about them all. If you ever have the opportunity to visit this beautiful island, you will then understand what I mean, about it's breathtaking views and bays.
 
 ![crystal caves](../img/post-assets/emma-lighthouse.jpg)
 
