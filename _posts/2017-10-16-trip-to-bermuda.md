@@ -46,12 +46,17 @@ From the outset Bermuda was truly **breathe taking**, high temperatures, and the
 
 
 Another day of the trip we rented a boat filled it with goodies and went out to sea. Swimming with fish and meeting up with friends. 
-So many wonderful things to do and experience in Bermuada I couldn't write about them all. If you ever have the opportunity to visit this beautiful island ( I will be very jealous) you will then understand what I mean, about it breathtaking views and bays.
+So many wonderful things to do and experience in Bermuada I couldn't write about them all. If you ever have the opportunity to visit this beautiful island 
+( I will be very jealous) you will then understand what I mean, about it breathtaking views and bays.
 
 ![crystal caves](../img/post-assets/emma-lighthouse.jpg)
 
 ![crystal caves](../img/post-assets/dinner-lighthouse.jpg)
 After spending 10 days in Bermuda one extra night, as our flight was cancelled.  We then flew onto New York, which was a lifetime experience.  I will get round to writing about it soon, stay tuned, for another blog post. 
+
+Thanks for reading 
+
+Emma xx
 
 
 
