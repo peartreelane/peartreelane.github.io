@@ -53,6 +53,8 @@ Another day of the trip we rented a boat filled it with goodies and went out to 
 ![crystal caves](../img/post-assets/emma-lighthouse.jpg)
 
 
+
+
 ![crystal caves](../img/post-assets/dinner-lighthouse.jpg)
 After spending 10 days in Bermuda one extra night, as our flight was cancelled.  We then flew onto New York, which was a lifetime experience.  I will get round to writing about it soon, stay tuned, for another blog post. 
 
