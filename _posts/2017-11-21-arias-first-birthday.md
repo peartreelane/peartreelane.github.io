@@ -13,8 +13,6 @@ show_related_posts: false
 square_related: recommend-blog
 ---
 
-## Arias 1st Birthday party 
-
 I am blessed with two wonderful nieces, named Willow- Rose and Aria. Willow Rose is now 4years old; Aria just turned one so this calls for a pretty party and cake. My sister Laura knows there is no one with such talent to style a party as Louise @thevintagerooms. 
 
 ![Arias birthday party](../img/post-assets/aria1.jpg)
