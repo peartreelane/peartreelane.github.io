@@ -14,18 +14,15 @@ square_related: recommend-blog
 ---
 
 I am blessed with two wonderful nieces, named Willow- Rose and Aria. Willow Rose is now 4years old; Aria just turned one, so this calls for a pretty party and cake. My sister Laura knew there is nobody else with such talent to style a party as Louise. 
+
 [Check out some of Louises events and collaborations](http://www.thevintageroom.info) 
+
 
 
 ![Arias birthday party](../img/post-assets/aria1.jpg)
 
 ![Arias birthday party](../img/post-assets/aria2.jpg)
 
-![Arias birthday party](../img/post-assets/aria3.jpg)
-
-![Arias birthday party](../img/post-assets/aria4.jpg)
-
-![Arias birthday party](../img/post-assets/aria5.jpg)
 
 Laura from the outset wanted a colour scheme of rose gold and pink to mark the special occasion of her daughters first birthday. These are mainly Louise’s trademark colours, so styling such an event would be no problem for Louise. 
 Louise kindly agreed to style the party incorporating beautiful items from Party pieces. 
@@ -51,7 +48,7 @@ What a wonderful day celebrating Aria’s first birthday, all thanks to the Vint
 
 ![Arias birthday party](../img/post-assets/aria10.jpg)
 
-![Arias birthday party](../img/post-assets/aria11.jpg)
+
 
 Life is so fast; we must take time to appreciate the things that really matter in our lives. As I get older (I turn30 next year which I am dreading.) I realise ‘Memories are special moments that tell our life’s’
 
