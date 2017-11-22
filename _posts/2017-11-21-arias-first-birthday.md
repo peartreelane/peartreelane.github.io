@@ -19,9 +19,9 @@ I am blessed with two wonderful nieces, named Willow- Rose and Aria. Willow Rose
 
 
 
-![Arias birthday party](../img/post-assets/aria17-jpg)
+![Arias birthday party](../img/post-assets/aria17.jpg)
   
-![Arias birthday party](../img/post-assets/aria18-jpg)
+![Arias birthday party](../img/post-assets/aria18.jpg)
 
 
 Laura from the outset wanted a colour scheme of rose gold and pink to mark the special occasion of her daughters first birthday. These are mainly Louise’s trademark colours, so styling such an event would be no problem for Louise. 
