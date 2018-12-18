@@ -5,7 +5,7 @@ permalink: /about/
 feature_image: feature-about
 ---
 
-Welcome to Pear Tree Lane, and my foray into the world of blogging!  I hope to share some of my day to day life with you here and all the things which I love..
+Welcome to Pear Tree Lane, and my foray into the world of blogging!  I hope to share some of my day to day life with you here and all the things which I love...
 
 My name is Emma and I'm married to the lovely Kyle and he accomplished something quite incredible getting a Co. Antrim girl like me to move to Co. Down!
 
