@@ -2,7 +2,7 @@
 title: Aria's First Birthday
 date: 2017-11-21 17:45:32
 categories: home pretties food fashion
-feature_image: feature-laptop
+feature_image: feature-birthday
 read_time : 4
 layout: post
 author_name : Emma
