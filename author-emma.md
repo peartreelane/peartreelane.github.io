@@ -10,4 +10,4 @@ title: Emma Boyd
 
 # Emma Boyd
 
-This is about Emma.
+Emma lives in Northern Ireland, with her husband Kyle and son Ezra.
