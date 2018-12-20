@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-10-29 08:50:28
-categories: wedding
+categories: weddings
 author_name : Emma
 author_url : /author/emma
 author_avatar: emma
